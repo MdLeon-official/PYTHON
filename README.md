@@ -45,17 +45,6 @@ This repository contains:
 ---
 
 
-## 🛠️ Tools & Projects
-
-Here I'll showcase mini projects, challenges solved, and any tools I develop in Python.
-
----
-
-## 🧠 Thoughts and Learnings
-
-- Share your daily learning experiences, challenges faced, and solutions found.
-
----
 
 ## 📜 License
 
