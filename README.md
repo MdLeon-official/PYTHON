@@ -37,7 +37,7 @@ This repository contains:
 - [Online Python Interpreter](https://www.programiz.com/python-programming/online-compiler): Try out Python code instantly.
 - [Real Python Tutorials](https://realpython.com/): A great resource for learning Python.
 - [Python Official Documentation](https://docs.python.org/3/): The official Python docs.
-- [Exercism Python Track](https://exercism.io/tracks/python): Hands-on exercises to improve Python skills.
+- [Exercism Python Track](https://www.w3resource.com/python-exercises/): Hands-on exercises to improve Python skills.
 
 ---
 
