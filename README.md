@@ -4,6 +4,9 @@ A repository dedicated to my journey in learning and solving problems with Pytho
 
 ---
 
+![Python Gif](https://miro.medium.com/v2/resize:fit:720/format:webp/1*IRGB-4OAoO8KSqH_huDPFw.gif)
+
+
 ## 🌟 About
 
 This repository contains:
@@ -41,22 +44,10 @@ This repository contains:
 
 ---
 
-## 🎨 My Python Journey
-
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-This section will document my progress, challenges, and achievements along the way.
-
----
 
 ## 🛠️ Tools & Projects
 
 Here I'll showcase mini projects, challenges solved, and any tools I develop in Python.
-
-### Example Project: **PortScanner in Python**
-- A port scanner written in Python for network security.
-
-![PortScanner Gif](https://media.giphy.com/media/3o6ozhXkP3g1lfgEos/giphy.gif)
 
 ---
 
