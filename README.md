@@ -1,6 +1,6 @@
-# 🌐 Python Problem Solving Repository
+# 🌐 Python Repository
 
-A repository dedicated to my journey in learning and solving problems with Python.
+A repository dedicated to my journey in learning and solving problems, making tools with Python.
 
 ---
 
