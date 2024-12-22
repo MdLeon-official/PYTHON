@@ -14,7 +14,7 @@ print(f"Scanning {target_host} ({target_ip})...")
 for port in target_ports:
     try:
         client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        client.settimeout(0.1)
+        client.settimeout(0.4)
         result = client.connect_ex((target_ip, port))
         if result == 0:
             print(f"Port {port} is open")
