@@ -1,3 +1,5 @@
+import socket
+
 target_host = input("Enter the target IP or domain: ")
 try:
     target_ip = socket.gethostbyname(target_host)
@@ -5,7 +7,7 @@ except socket.gaierror:
     print(f"Error: Unable to resolve '{target_host}'. Please enter a valid IP or domain.")
     exit()
 
-target_ports = range(1, 66000)
+target_ports = range(1, 1024)
 
 print(f"Scanning {target_host} ({target_ip})...")
 
