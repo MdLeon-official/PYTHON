@@ -42,10 +42,3 @@ This repository contains:
 - [Python Official Documentation](https://docs.python.org/3/): The official Python docs.
 - [Exercism Python Track](https://www.w3resource.com/python-exercises/): Hands-on exercises to improve Python skills.
 
----
-
-
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
